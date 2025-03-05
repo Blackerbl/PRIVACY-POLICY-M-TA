@@ -1,6 +1,4 @@
-PRIVACY POLICY
-
-This Privacy Policy (the "Policy") outlines how [Your Bot Name] (the "Bot") collects, uses, and protects the personal information provided by users ("User" or "you") when using the Bot, which is operated by [Your Name or Bot Owner] ("Bot Owner").
+This Privacy Policy (the "Policy") outlines how Blackeker (the "Bot") collects, uses, and protects the personal information provided by users ("User" or "you") when using the Bot, which is operated by Blackeker Bot Owner ("Bot Owner").
 
 By using the Bot, you agree to the collection and use of your data in accordance with this Policy. If you do not agree with this Privacy Policy, please discontinue use of the Bot immediately.
 
@@ -17,7 +15,7 @@ Providing Services: To enable and enhance the features and functionality of the 
 Improving the Bot: To analyze and improve the performance and user experience of the Bot.
 Communicating with Users: To send important updates regarding the Bot’s operation, changes to terms, and other relevant communications.
 3. Data Retention
-The Bot retains your information as long as necessary to provide its services. If you decide to stop using the Bot, your data may be retained for a limited period as required for operational or legal reasons but will be deleted upon request.
+Blackeker retains your information as long as necessary to provide its services. If you decide to stop using the Bot, your data may be retained for a limited period as required for operational or legal reasons but will be deleted upon request.
 
 4. Third-Party Services
 We do not share your personal information with third parties except as necessary to operate and maintain the Bot (e.g., for external APIs or services that provide music streaming). Third-party services may have their own privacy policies, which are separate from this Policy.
